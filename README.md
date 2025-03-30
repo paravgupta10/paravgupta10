@@ -8,8 +8,7 @@ I'm **Parav Gupta**, a passionate **Computer Science student** exploring the dep
 - 👯 I’m looking to collaborate on **AI/ML research projects**.  
 - 🤔 I’m looking for help with **optimization techniques for deep learning models**.  
 - 💬 Ask me about **Neural Networks, Python, TensorFlow, and PyTorch**.  
-- 📫 How to reach me: paravgupta04@gmail.com | llinkedin.com/in/paravgupta10/
-- ⚡ Fun fact: I originally got into AI because of my interest in **self-driving cars and F1 racing!**  
+- 📫 How to reach me: paravgupta04@gmail.com | linkedin.com/in/paravgupta10/
 
 ### 🛠 Tech Stack  
 - **Languages:** Python, C++, JavaScript  
